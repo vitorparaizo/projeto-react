@@ -1,3 +1,3 @@
 # React + Vite
 
-Projeto contruindo utilizando ReactJs
+Projeto contruido utilizando ReactJs
